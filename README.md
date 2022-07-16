@@ -3,9 +3,7 @@ Observability challenge with New Relic and Platzi
 
 ## platzi route certificates
 
-<img src="src/diploma-docker.jpg" alt="drawing" width="200"/>
-<img src="src/diploma-new-relic.jpg" alt="drawing" width="220"/>
-<img src="src/diploma-devops.jpg" alt="drawing" width="200"/>
+<img src="src/diploma-docker.jpg" alt="drawing" width="200"/><img src="src/diploma-new-relic.jpg" alt="drawing" width="220"/><img src="src/diploma-devops.jpg" alt="drawing" width="200"/>
 
 ## FoodMe App DashBoard
 
