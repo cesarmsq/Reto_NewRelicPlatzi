@@ -63,6 +63,7 @@ SELECT average(duration) FROM Transaction FACET name SINCE 1 week ago
 SELECT max(duration), average(duration) FROM PageView FACET city
 ```
 
-## New Relic exam
-![certificate](src/certificate.png)
+## New Relic exam certificate
 * [Certificate of achievement](https://scl.io/lWPRpwQ)
+
+![certificate](src/certificate.png)
