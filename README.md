@@ -66,4 +66,4 @@ SELECT max(duration), average(duration) FROM PageView FACET city
 ## New Relic exam certificate
 * [Certificate of achievement](https://scl.io/lWPRpwQ)
 
-![certificate](src/certificate.png)
+![certificate](src/certificatenr.png)
